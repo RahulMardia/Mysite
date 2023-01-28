@@ -30,12 +30,14 @@ p{
     font-size: 19px;
   
 }
+
 a {
     color: #11999e;
     font-family: 'Merriweather', serif;
     margin: 10px 20px;
     text-decoration: none;
 }
+
 a:hover{
     color: #EAF6F6;
 }
@@ -45,12 +47,12 @@ div.top-container {
     background-color: #E4F9F5;
     padding-top: 100px;
     position: relative;
-
 }
 
 .middle-container{
 margin: 100px 0px;
 }
+
 .bottom-container{
     background-color: #66bfbf;
     padding: 40px 0px 20px 0px;
@@ -58,7 +60,7 @@ margin: 100px 0px;
 
 .bottom-cloud {
     position: absolute;
-    left: 10%;
+    left: 3%;
     bottom: 40%;
 
 }
